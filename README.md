@@ -1,5 +1,7 @@
 # Next-Generation Distributed Security with Two Cards: An Introduction
 
+![hacker-1944688_640](https://github.com/user-attachments/assets/c10caea4-37d6-4907-9ef8-d38b979068d2)
+
 ## What do you think about the current situation where everything is concentrated in a single smartphone?
 
 Modern smartphones have a structure in which identity, authority, and private keys are all concentrated in one device for authentication.  
