@@ -2,6 +2,7 @@
 
 ![hacker-1944688_640](https://github.com/user-attachments/assets/3ec3545b-9e54-4cb5-bd64-f0e9aea70f7f)
 
+Note: This proposal is based on physical and structural separation of information, not on computational security.
 
 ## What do you think about the current situation where everything is concentrated in a single smartphone?
 
