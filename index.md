@@ -210,14 +210,19 @@ Users still present only one card.
 → Resume work: Permissions restored  
 → Leave: All permissions ended  
 
-Authority is not simply ON/OFF.  
+Authority is not simply ON or OFF.
+
 It changes dynamically based on:
 
-- Action  
-- State  
-- Time  
+- Action
 
-Yet the structure remains stable.
+- State
+
+- Time
+
+Yet, no matter how complex these changes become, the overall structure remains stable.
+
+Even changes beyond human intuition do not break the system.
 
 ---
 
