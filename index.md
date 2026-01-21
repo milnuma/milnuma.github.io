@@ -1,6 +1,7 @@
 # Next-Generation Distributed Security with Two Cards: An Introduction
 
-![hacker-1944688_640](https://github.com/user-attachments/assets/3ec3545b-9e54-4cb5-bd64-f0e9aea70f7f)
+![internet-3484137_640](https://github.com/user-attachments/assets/928cb36c-0a6b-42f1-b54b-39036d7ffbf8)
+
 
 Note: This proposal is based on physical and structural separation of information, not on computational security.
 
