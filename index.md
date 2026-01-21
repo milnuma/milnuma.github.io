@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="AT9VSBcT5uZaxcAZhn0NUmZAu_18PfCPr07qv-femiI" />
 # Next-Generation Distributed Security with Two Cards: An Introduction
 
 ![internet-3484137_640](https://github.com/user-attachments/assets/928cb36c-0a6b-42f1-b54b-39036d7ffbf8)
